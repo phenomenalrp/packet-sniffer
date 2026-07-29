@@ -44,3 +44,5 @@ Destination Port: 443
 - TCP/IP packet parsing
 - Network traffic analysis
 - Low-level networking concepts
+
+<img width="1920" height="1080" alt="packet_sniffing_data" src="https://github.com/user-attachments/assets/2c9e6e71-b470-47a8-82ca-f88479a89d32" />
